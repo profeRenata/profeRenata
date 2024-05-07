@@ -1,5 +1,5 @@
 - 👋 Olá sou a profª Renata
-- Leciono a disciplina de Pensamento Computacional no Colégio Estadual Cecília Meireles / PR
+- Leciono a disciplina de Pensamento Computacional
 
 
 <!---
